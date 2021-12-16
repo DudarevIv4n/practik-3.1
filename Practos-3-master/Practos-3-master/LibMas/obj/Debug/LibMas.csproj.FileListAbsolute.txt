@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Practos-3-master\Practos-3-master\LibMas\bin\Debug\LibMas.dll
+C:\Users\User\Desktop\Practos-3-master\Practos-3-master\LibMas\bin\Debug\LibMas.pdb
+C:\Users\User\Desktop\Practos-3-master\Practos-3-master\LibMas\obj\Debug\LibMas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practos-3-master\Practos-3-master\LibMas\obj\Debug\LibMas.dll
+C:\Users\User\Desktop\Practos-3-master\Practos-3-master\LibMas\obj\Debug\LibMas.pdb
